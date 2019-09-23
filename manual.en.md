@@ -5,7 +5,7 @@ You can sign this letter by creating a file with a random name (an easy way to c
 Name Surname | Position, company
 ```
 
-## Linux / MacOS / Cygwin (git bash)
+## Linux / MacOS / Cygwin / WSL (Windows Subsystem for Linux)
 
 ```bash
 # Here YOUR_FORK - your fork of this repository

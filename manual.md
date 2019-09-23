@@ -6,7 +6,7 @@
 Фамилия Имя | Должность, компания
 ```
 
-## Linux / MacOS / Cygwin (git bash)
+## Linux / MacOS / Cygwin / WSL (Windows Subsystem for Linux)
 
 ```bash
 # Здесь YOUR_FORK - ваш форк этого репозитория
